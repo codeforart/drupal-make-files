@@ -18,3 +18,6 @@ projects[node_revision_delete][subdir] = contrib ; clean up revisions
 
 projects[publication_date][subdir] = contrib
 projects[scheduler][subdir] = contrib
+
+; Content Creation
+projects[bulk_media_upload][subdir] = contrib
